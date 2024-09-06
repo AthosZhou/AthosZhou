@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AthosZhou!
-- 👀 I’m interested in Vue.js,Express,WebGL,NLP,KG...
-- 🌱 I’m currently learning Pytorch.
-- 💞️ I’m looking to collaborate on Bio-NER.
+- 👀 I’m interested in C#,WPF,Python3,Flask,Vue.js,Express,WebGL,NLP,KG...
+- 🌱 I’m currently Reinforcement learning.
+- 💞️ I’m looking to collaborate on DQN,Bio-NER.
 - 📫 How to reach me here.
 
 <!---
